@@ -7,3 +7,6 @@ I used <a href="https://dash.valorant-api.com/">Valorant-API </a>at my project.
   <a href="https://dash.valorant-api.com/endpoints/agents"><li>Agents</li></a>
   <a href="https://dash.valorant-api.com/endpoints/maps"><li>Maps</li></a>
 </ul>
+
+# Live Demo
+  <a href="https://cembolat.github.io/Valorant-Wiki/"><li>Page</li></a>
